@@ -188,5 +188,6 @@ function draw() {
         spelStatus = GAMEOVER;
       }
       break;
-  
+  }
+}
 
